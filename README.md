@@ -75,13 +75,6 @@ For full methodology, details, and discussion, see my paper (included in this re
 
 > Note: File/folder names can differ depending on how you cloned/exported the project. Adjust paths accordingly.
 
-## Instructions
-Training, validation, and testing are provided in the `training_*.py` files.
-
-Typical workflow:
-1. Download datasets (see below)
-2. Configure dataset paths in the scripts/config
-3. Run the desired `training_*.py` script for the chosen scenario
 
 ## Datasets
 This project uses multiple datasets for speaker/source distance estimation.
